@@ -1,0 +1,41 @@
+.cust-footer {
+    background-color: #6486b7;
+    color: white;
+    height: fit-content;
+}
+
+.cust-nav {
+    background-color: #6486b7;
+    color: white;
+    height: fit-content;
+}
+.cust-li{
+    height: fit-content;
+    width: fit-content;
+    margin-left: 40px;
+    font-size: 22px;
+}
+
+.btn{
+    background-color: #6486b7;
+}
+
+#poster img{
+    padding-right: 5rem;
+}
+
+#title h1{
+    float: left;
+    margin-top: 0rem;
+    font-size: 4rem;
+    font-weight: bolder;
+}
+
+#plot{
+    margin-top: 5rem;
+    width: fit-content;
+}
+
+#plot p{
+    font-size: 1.5rem;
+}
