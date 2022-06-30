@@ -68,9 +68,9 @@ Open index.html in browser.
 
 ## Screenshots
 
-![App Screenshot](/Screenshot/screenshot_1.png)
+![App Screenshot](/Screenshot/screenshot_01.png)
 
-![App Screenshot](/Screenshot/screenshot_2.png)
+![App Screenshot](/Screenshot/screenshot_02.png)
 
 
 
